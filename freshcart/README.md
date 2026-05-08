@@ -282,11 +282,7 @@ If anything doesn't work:
 
 Enjoy testing FreshCart! 🛒
 
-```
-Questions? The app is designed to be self-explanatory with:
-- Clear navigation
-- Helpful error messages
-- Intuitive UI
-- Loading indicators
-- Confirmation messages
-```
+NAME: ISRAEL ONYEKACHI THOMPSON
+MAT NO: FPS/CSC/24/86060
+STUDENT ID: E1153191
+COURSE: CSC 206
